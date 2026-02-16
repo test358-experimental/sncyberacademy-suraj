@@ -23,7 +23,6 @@ GitHub is a cloud-based platform that hosts Git repositories and enables collabo
 - Manage branches
 - Roll back to previous versions
 
----jkbkjbkjbkjnknkjnlkn
 
 # 🧠 Git Architecture
 
